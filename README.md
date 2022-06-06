@@ -8,5 +8,8 @@
 # 配置key，加密的容错
 spring:
   encrypt:
-    key: zlf666
+  ## 密钥需要16字节
+    key: zlf6667788888222
 ```
+
+**接口加密结果返回时需要使用该工具自带的RespBean**
