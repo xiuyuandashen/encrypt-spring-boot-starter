@@ -7,6 +7,6 @@
 ```yaml
 # 配置key，加密的容错
 spring:
-  encrypt: key
-
+  encrypt:
+    key: zlf666
 ```
